@@ -1,3 +1,3 @@
 ﻿  ConcurrentProgramming.cpp
-C:\Users\P-Mac\source\repos\ConcurrentProgramming\ConcurrentProgramming\ConcurrentProgramming.cpp(145,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  ConcurrentProgramming.vcxproj -> C:\Users\P-Mac\source\repos\ConcurrentProgramming\x64\Debug\ConcurrentProgramming.exe
+C:\Users\neste\Documents\GitHub\ConcurrentProgrammingLab1BPart\ConcurrentProgramming\ConcurrentProgramming.cpp(149,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ConcurrentProgramming.vcxproj -> C:\Users\neste\Documents\GitHub\ConcurrentProgrammingLab1BPart\x64\Debug\ConcurrentProgramming.exe
